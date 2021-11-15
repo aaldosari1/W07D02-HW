@@ -9,7 +9,7 @@
 
 ## swap void method 
 * create void method that will be passed two parameters and swapping thier values
-* print the result after and befor swapping 
+* print the result after and before swapping 
 
 ## Country class 
 * Create class named Country should contain:
